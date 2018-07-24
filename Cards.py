@@ -1,5 +1,15 @@
+# File: Cards.py
+# Description: Function for modifying lists with remove and count methods
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
 # Reference to:
 # [1] Valentyn N Sichkar. Implementing game with cards in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/playing_cards_in_Python (date of access: XX.XX.XXXX)
+
+
 
 
 # Implementing the task
