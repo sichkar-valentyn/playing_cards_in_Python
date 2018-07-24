@@ -1,3 +1,7 @@
+# Reference to:
+# [1] Valentyn N Sichkar. Implementing game with cards in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/playing_cards_in_Python (date of access: XX.XX.XXXX)
+
+
 # Implementing the task
 # Playing card's game
 
